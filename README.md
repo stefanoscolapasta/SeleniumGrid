@@ -8,7 +8,7 @@ Want to run tests in parallel across multiple machines? Then, Grid is for you.<b
 
 Selenium Grid allows the execution of WebDriver scripts on remote machines by routing commands sent by the client to remote browser instances.<br/><br/>
 
-Grid aims to:<br/><br/>
+Grid aims to:<br/>
 
 * Provide an easy way to run tests in parallel on multiple machines
 * Allow testing on different browser versions
