@@ -16,5 +16,5 @@ Grid aims to:<br/>
 
 ## What did we do?
 
-We simply created two simple Selenium tests to be run in parallel through TestNG. This way it is possible to quickly run cross-platform tests.<br/>
+We created two simple Selenium tests to be run in parallel through TestNG. This way it is possible to quickly run cross-platform tests.<br/>
 We instantiated a hub, to which we can connect an arbitrary number of nodes. Tests are written on the hub and executed on the nodes.
